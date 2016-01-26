@@ -1,6 +1,23 @@
 jquery-barcode
 ==============
 
+This is a repository to __install jquery-barcode using bower__: ```bower install jquery-barcode --save```
+
+```
+ *  BarCode Coder Library (BCC Library) 
+ *  BCCL Version 2.0
+ *
+ *  Porting : jQuery barcode plugin
+ *  Version : 2.1
+ *
+ *  Date    : 2014-04-15
+ *  Author  : DEMONTE Jean-Baptiste <jbdemonte@gmail.com>
+ *            HOUREZ Jonathan
+ *
+ *  Web site: http://barcode-coder.com/
+ *  dual licence :  http://www.cecill.info/licences/Licence_CeCILL_V2-fr.html
+ *                  http://www.gnu.org/licenses/gpl.html
+```
 Presentation
 ------------
 
